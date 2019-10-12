@@ -1,0 +1,170 @@
+.headTitle {
+	background-color: black;
+}
+
+h1 {
+	font-size: 58px;
+	text-shadow: 2px 1px white;
+	font-weight: 200;
+	font-stretch: expanded;
+	/*font-family: 'Indie Flower', cursive;*/
+	font-family: 'Amatic SC', cursive;
+}
+
+.navigationBar {
+	background-color: #4f5359;
+}
+
+.navHead {
+	padding-top: 6px;
+}
+
+.navigationBar a {
+	color: white;
+	text-decoration: none;
+	text-shadow: 2px 1px black;
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Josefin Slab', serif;
+	}
+
+.navigationBar a:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px black;
+}
+
+#buttonSort {
+	font-size: 24px;
+	display: flex;
+	justify-content: space-between;
+	background-color: #4f5359;
+	width: 80px;
+	border: 2px solid #4f5359;
+	padding: 5px;
+	color: white;
+	font-family: 'Josefin Slab', serif;
+	text-shadow: 2px 1px black;
+}
+
+#buttonSort:hover {
+	font-size: 26px;
+	text-shadow: 3px 2px black;
+}
+
+i {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 6px;
+
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.bigContainer {
+	background-color: #161D24;
+}
+
+.containerHead {
+	font-size: 54px;
+	text-shadow: 2px 1px black;
+	padding: 26px 0 46px 0;
+	font-family: 'Amatic SC', cursive;
+}
+
+.movieCard {
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	background: #101010;
+	text-align: center;
+	margin-bottom: 48px;
+}
+
+.movieCardImage {
+	height: 330px;
+	width: 230px;
+	border-radius: 16px;
+	box-shadow: 1px 0 #101010;
+}
+
+.movieCardSite {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.movieCardTitle {
+	font-size: 28px;
+	font-weight: 900;
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	padding-top: 4px;
+	padding-bottom: 12px;
+}
+
+.movieCardDesc {
+	font-size: 14px;
+	color: white;
+	font-family: 'Josefin Slab', serif;
+	padding-top: 8px;
+	padding-left: 2px;
+	padding-right: 2px;
+	font-weight: 900;
+}
+
+.liker {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 15px;
+	padding-bottom: 10px;
+	color: black;
+}
+
+.likerText {
+	color: green;
+	font-weight: 900;
+	font-size: 24px;
+	margin-right: 5px;
+	font-family: 'Josefin Slab', serif;
+	font-style: italic;
+}
+
+.theCount {
+	width: 50px;
+	height: 50px;
+	background-color: green;
+	border-radius: 100px;
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+	font-family: 'Josefin Slab', serif;
+	font-size: 20px;
+	font-weight: 900;
+	align-items: center;
+}
+
+.theCount:hover {
+	font-size: 24px;
+
+}
+
+.clickMe {
+	font-size: 24px;
+	color: green;
+	padding-right: 15px;	
+}
+
+.clickMe:hover {
+	color: white;
+	font-size: 32px;
+}
+
+.footerTitle {
+	background-color: black;
+	font-family: 'Amatic SC', cursive;
+}
+

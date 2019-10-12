@@ -1,0 +1,31 @@
+var movies =[{
+"image":"img/harrypotter.jpg",
+"title":"Harry Potter and the Philosopher's Stone",
+"description":"Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. ",
+"like":60
+},{
+"image":"img/blackpanther.jpg",
+"title":"Black Panther",
+"description":"After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king.Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther.",
+"like":38
+},{
+"image":"img/grandbudapest.jpg",
+"title":"The Grand Budapest Hotel",
+"description":"In the 1930s, the Grand Budapest Hotel is a popular European ski resort, presided over by concierge Gustave H. . Zero, a junior lobby boy, becomes Gustave's friend and protege.",
+"like":44
+},{
+"image":"img/dunkirk.jpeg",
+"title":"Dunkirk",
+"description":"In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found.",
+"like":22
+},{
+"image":"img/harrypotter3.jpg",
+"title":"Harry Potter and the Prisoner of Azkaban",
+"description":"Harry Potter's third year at Hogwarts starts off badly when he learns deranged killer Sirius Black has escaped from Azkaban prison and is bent on murdering the teenage wizard.",
+"like":72
+},{
+"image":"img/donniedarko.jpg",
+"title":"Donnie Darko",
+"description":"During the presidential election of 1988, a teenager named Donnie Darko sleepwalks out of his house one night and sees a giant, demonic-looking rabbit named Frank, who tells him the world will end in 28 days.",
+"like":28
+}];
